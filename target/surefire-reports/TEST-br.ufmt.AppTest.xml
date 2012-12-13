@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.01" errors="0" skipped="0" tests="1" name="br.ufmt.AppTest">
+<testsuite failures="0" time="0.011" errors="0" skipped="0" tests="1" name="br.ufmt.AppTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Libraries"/>
@@ -16,13 +16,13 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="unknown"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/Users/andre/Computação/periscopeTest/periscope"/>
+    <property name="user.dir" value="/Users/andre/Computação/periscopeTest"/>
     <property name="java.runtime.version" value="1.6.0_37-b06-434-11M3909"/>
     <property name="java.awt.graphicsenv" value="apple.awt.CGraphicsEnvironment"/>
-    <property name="basedir" value="/Users/andre/Computação/periscopeTest/periscope"/>
+    <property name="basedir" value="/Users/andre/Computação/periscopeTest"/>
     <property name="java.endorsed.dirs" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/endorsed"/>
     <property name="os.arch" value="x86_64"/>
-    <property name="surefire.real.class.path" value="/Users/andre/Computação/periscopeTest/periscope/target/surefire/surefirebooter4622724323797147614.jar"/>
+    <property name="surefire.real.class.path" value="/Users/andre/Computação/periscopeTest/target/surefire/surefirebooter1361521510562682563.jar"/>
     <property name="java.io.tmpdir" value="/var/folders/vc/y0py9zld4675p_5bxrcjgzxm0000gn/T/"/>
     <property name="line.separator" value="
 "/>
@@ -30,7 +30,7 @@
     <property name="os.name" value="Mac OS X"/>
     <property name="sun.jnu.encoding" value="MacRoman"/>
     <property name="java.library.path" value=".:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
-    <property name="surefire.test.class.path" value="/Users/andre/Computação/periscopeTest/periscope/target/test-classes:/Users/andre/Computação/periscopeTest/periscope/target/classes:/Users/andre/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
+    <property name="surefire.test.class.path" value="/Users/andre/Computação/periscopeTest/target/test-classes:/Users/andre/Computação/periscopeTest/target/classes:/Users/andre/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="50.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -42,11 +42,11 @@
     <property name="java.specification.version" value="1.6"/>
     <property name="file.encoding" value="MacRoman"/>
     <property name="user.name" value="andre"/>
-    <property name="java.class.path" value="/Users/andre/Computação/periscopeTest/periscope/target/test-classes:/Users/andre/Computação/periscopeTest/periscope/target/classes:/Users/andre/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
+    <property name="java.class.path" value="/Users/andre/Computação/periscopeTest/target/test-classes:/Users/andre/Computação/periscopeTest/target/classes:/Users/andre/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
     <property name="java.vm.specification.version" value="1.0"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home"/>
-    <property name="sun.java.command" value="/Users/andre/Computação/periscopeTest/periscope/target/surefire/surefirebooter4622724323797147614.jar /Users/andre/Computação/periscopeTest/periscope/target/surefire/surefire4797304490522214783tmp /Users/andre/Computação/periscopeTest/periscope/target/surefire/surefire4340514375008411697tmp"/>
+    <property name="sun.java.command" value="/Users/andre/Computação/periscopeTest/target/surefire/surefirebooter1361521510562682563.jar /Users/andre/Computação/periscopeTest/target/surefire/surefire5726357808507576833tmp /Users/andre/Computação/periscopeTest/target/surefire/surefire1621545303714942829tmp"/>
     <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
     <property name="user.language" value="pt"/>
     <property name="awt.toolkit" value="apple.awt.CToolkit"/>
@@ -65,5 +65,5 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.001" classname="br.ufmt.AppTest" name="testApp"/>
+  <testcase time="0.002" classname="br.ufmt.AppTest" name="testApp"/>
 </testsuite>
